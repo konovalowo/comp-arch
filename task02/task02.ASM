@@ -37,7 +37,7 @@ section '.data' data readable writable
         vecout_size  dd 0
         sum          dd 0
         ave          dd 0
-        i            dd ?
+        D
         tmp          dd ?
         tmp2         dd ?
         tmpStack     dd ?
