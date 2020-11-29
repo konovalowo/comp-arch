@@ -22,7 +22,7 @@ https://pro-prof.com/forums/topic/parallel-programming-paradigms
 #### Входные данные
 ![test1](screenshots/screen1_input.png)
 #### Информация о потоках
-В программе задача распараллеливается на 5 потоков
+В программе задача распараллеливается на 5 потоков  
 ![test1](screenshots/screen1_threads.png)
 #### Вывод
 ![test1](screenshots/screen1.png)
